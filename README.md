@@ -34,9 +34,10 @@
 </div>
 
 
-   |<div>JavaScript</div>|<div>Firebase</div>|
+
+  |<div>JavaScript</div>|<div>Firebase</div>|
   |---------------------|-------------------|
-  |<img style="display: inline;"  height="50px" width="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt=""> | <img style="display: inline;"  height="50px" width="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt=""> |
+  |<img align="center" style="height: 50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt=""> | <img style="display: inline;"  height="50px" width="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt=""> |
   
 <!---
 OB-CODE/OB-CODE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
