@@ -21,6 +21,7 @@
 <h1 align="center" style="gap:10px; padding-top: 20px;">Languages and Tools:</h2>
 
   |<div>JavaScript</div>|<div>Firebase</div>|
+  |-----|-----|
 
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
