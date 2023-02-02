@@ -2,6 +2,7 @@
 
 - 👀 Softwear Engineering from GA.
 - :ok_hand:	currently working on REACT.
+- :email: Contact: mitchell.s.obrien@gmail.com
 
 Interests away from coding: :dog: :surfer: :tent: :bike:  :ocean:
 
