@@ -3,6 +3,7 @@
 - 👀 Softwear Engineering from GA.
 - :ok_hand:	currently working on REACT.
 
+Interests away from coding: :dog: :surfer: :tent: :bike:  :ocean:
 
 <!---
 OB-CODE/OB-CODE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
