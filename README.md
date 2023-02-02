@@ -2,11 +2,11 @@
 
 <ul style="font-size: 1.3rem;">
   <li>&#127891; Softwear Engineering from GA.</li>
-  <li>&#9874;	currently working on REACT.</li>
+  <li>&#9874;	currently learning REACT</li>
+  <li>&#127959;	Current Project: Pokemon Game - Express (group).</li>
+  <li>&#127959;	Current Project: Garden API - React.</li>
   <li>&#128483; Open to project collaborations</li>
   <li>&#128237; Contact: mitchell.s.obrien@gmail.com</li>
-  <li></li>
-
 </ul>
 
 <h2 style="text-align: center;">Interests away from coding:
