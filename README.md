@@ -20,6 +20,9 @@
 
 <h1 align="center" style="gap:10px; padding-top: 20px;">Languages and Tools:</h2>
 
+  |<div>JavaScript</div>|<div>Firebase</div>|
+
+
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img style="display: inline;" height="50px" width="50px" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="">
   <img style="display: inline;"  height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="">
@@ -35,9 +38,7 @@
 
 
 
-  |<div>JavaScript</div>|<div>Firebase</div>|
-  |---------------------|-------------------|
-  |<img align="center" style="height: 50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt=""> | <img style="display: inline;"  height="50px" width="50px" align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt=""> |
+
   
 <!---
 OB-CODE/OB-CODE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
