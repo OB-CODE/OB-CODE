@@ -21,9 +21,10 @@
 <h1 align="center" style="gap:10px; padding-top: 20px;">Languages and Tools:</h2>
 
 
- | `JavaScript` |
-  | :---: |
-  | <img style="width: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt=""> |
+| `JavaScript` | `NodeJS` | `HTML5` | `React` | `Jest` | `Ruby` | `Rails` | `Postgresql` | `Postman` | `Firebase` |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img style="width: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt=""> | placeholder | placeholder | placeholder | placeholder | placeholder | placeholder | placeholder | placeholder | placeholder |
+
 
 
 
