@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @OB-CODE (Mitch O'Brien)
-- 👀 Learning SE through GA
+<h1> 👋 Hi, I’m @OB-CODE (Mitch O'Brien) </h1>
+
+- 👀 Softwear Engineering from GA.
+- currently working on REACT.
+
 
 <!---
 OB-CODE/OB-CODE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
