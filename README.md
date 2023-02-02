@@ -1,7 +1,7 @@
 <h1> 👋 Hi, I’m @OB-CODE (Mitch O'Brien) </h1>
 
 - 👀 Softwear Engineering from GA.
-- U+1F9BE	currently working on REACT.
+- :ok_hand:	currently working on REACT.
 
 
 <!---
