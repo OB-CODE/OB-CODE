@@ -33,6 +33,11 @@
   <img style="display: inline;"  height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="">
 </div>
 
+
+ |<div>JavaScript</div>|<div>Firebase</div>|
+  |---------------------|-------------------|
+  |<img style="display: inline;"  height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt=""> | <img style="display: inline;"  height="50px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt=""> |
+  
 <!---
 OB-CODE/OB-CODE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
