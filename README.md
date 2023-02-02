@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> 👋 Hi, I’m Mitch O'Brien - @OB-CODE 👋</h1>
+<div style="text-align: center;"> 👋 Hi, I’m Mitch O'Brien - @OB-CODE 👋</div>
 
 <ul style="font-size: 1.3rem;">
   <li>&#127891; Softwear Engineering from GA.</li>
