@@ -1,10 +1,10 @@
 <h1 align="center"> 👋 Hi, I’m Mitch O'Brien - @OB-CODE 👋</h1>
 
 <ul style="font-size: 1.3rem;">
+  <li>&#128214; Fulltime Software Developer, wonking in Typescript, React and C#.</li>
   <li>&#127891; Softwear Engineering from GA.</li>
-  <li>&#128214;	currently learning REACT</li>
-  <li>&#127959;	Current Project: Pokemon Game - Express (group).</li>
-  <li>&#127959;	Current Project: Garden API - React.</li>
+  <li>&#127959;	Current Project: Pokemon Game - React (group) - re-doing a course project.</li>
+  <li>&#127959;	Current Project: Open AI meal planner (using microservices)</li>
   <li>&#128483; Open to project collaborations</li>
   <li>&#128237; Contact: mitchell.s.obrien@gmail.com</li>
 </ul>
