@@ -2,9 +2,6 @@
 
 <ul style="font-size: 1.3rem;">
   <li>&#128214; Fulltime Software Developer, working in Typescript, React and C#.</li>
-  <li>&#127891; Softwear Engineering from GA.</li>
-  <li>&#127959;	Current Project: Pokemon Game - React (group) - re-doing a course project.</li>
-  <li>&#127959;	Current Project: Open AI meal planner (using microservices)</li>
   <li>&#128483; Open to project collaborations</li>
   <li>&#128237; Contact: mitchell.s.obrien@gmail.com</li>
   <li>&#9000; Tools: Dvorak layout on the ZSA moonlander keyboard</li>
